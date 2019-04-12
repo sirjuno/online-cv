@@ -32,13 +32,13 @@ sidebar:
         level: Intermediate level
 
     interests:
-      - item: Climbing
+      - item: Transformación digital
         link:
 
-      - item: Snowboarding
+      - item: Metodologías ágiles
         link:
 
-      - item: Cooking
+      - item: Software libre
         link:
 
 career-profile:
@@ -53,33 +53,15 @@ education:
     - degree: Maestría de Ingeniería de Sistemas e Informática con mención en Gestión de Tecnología de Información y Comunicaciones
       university: Universidad Nacional Mayor de San Marcos
       time: 2019 - Actualmente estudiando
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+      
     - degree: Ingeniería en Computación e Informática
       university: Universidad Nacional Pedro Ruíz Gallo
       time: 2008 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Analista programador I
+      time: Junio 2015 - Present
+      company: Superintendencia Nacional de Bienes Estatales, Lima
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
