@@ -60,7 +60,7 @@ education:
 
 experiences:
     - role: Analista programador I
-      time: Junio 2015 - Present
+      time: Junio 2017 - Present
       company: Superintendencia Nacional de Bienes Estatales, Lima
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -76,9 +76,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Supervisor de servicios TI
+      time: Abril 2016 - Junio 2017
+      company: Supermercados Peruanos, Lima
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,9 +89,22 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Analista Programador
+      time: Septiembre 2014 - Marzo 2016
+      company: IDE Solution, Lambayeque
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Analista Programador
+      time: Febrero 2014 - Agosto 2014
+      company: Financiera Efectiva, Lambayeque
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
