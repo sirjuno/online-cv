@@ -63,18 +63,12 @@ experiences:
       time: Junio 2017 - Present
       company: Superintendencia Nacional de Bienes Estatales, Lima
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+      Colaborando en la transformación digital de la Superintendencia Nacional de Bienes Estatales, en marco de la ley 27658, Ley
+      del Marco de Modernización de la Gestión del Estado.
+          - Gestión de proyectos
+          - Firma Digital
+          - Administración de plataforma de integración cartográfica JMAP
+          - Desarrollo de software
 
     - role: Supervisor de servicios TI
       time: Abril 2016 - Junio 2017
@@ -117,11 +111,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    
     assignments:
       - title: Círculo de Estudios "Hello World" (Presidente y fundador)
         link: "https://www.facebook.com/Circulo.Estudios.Hello.World/"
