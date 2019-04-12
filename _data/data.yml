@@ -50,9 +50,9 @@ career-profile:
       Transformación digital. Gestión de proyectos. Desarrollo de software.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Maestría de Ingeniería de Sistemas e Informática con mención en Gestión de Tecnología de Información y Comunicaciones
+      university: Universidad Nacional Mayor de San Marcos
+      time: 2019 - Actualmente estudiando
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +63,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Ingeniería en Computación e Informática
+      university: Universidad Nacional Pedro Ruíz Gallo
+      time: 2008 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
