@@ -123,9 +123,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Círculo de Estudios "Hello World" (Presidente y fundador)
+        link: "https://www.facebook.com/Circulo.Estudios.Hello.World/"
+        tagline: "Equipo de estudiantes, docentes y egresados de la Universidad Nacional Pedro Ruiz Gallo de la especialidad de Ingeniería en Computación e Informática, que tenemos el firme propósito de participar activamente en el desarrollo académico, científico, cultural y profesional de los estudiantes, e impulsar el debate en torno al perfil profesional, currículos y planes de estudio de nuestra carrera."
 
       - title: DevStudio
         link: "#"
