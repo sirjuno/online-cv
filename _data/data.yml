@@ -168,16 +168,16 @@ skills:
 
     toolset:
       - name: Scrum
-        level: 75%
+        level: 85%
 
       - name: PMP
         level: 50%
 
       - name: Transformación Digital
-        level: 75%
+        level: 85%
 
       - name: Gestión de proyectos
-        level: 75%
+        level: 85%
 
       - name: Desarrollo de Software
         level: 75%
